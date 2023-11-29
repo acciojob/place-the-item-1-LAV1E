@@ -1,2 +1,23 @@
-
-/* Your CSS Code here. */
+.div1{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.div2{
+	display:flex;
+	flex-wrap:wrap;
+	gap:2px;
+	
+}
+.green{
+	background:green;
+	padding:30px;
+}
+.red{
+	background:red;
+	padding:30px;
+}
+.blue{
+	background:blue;
+	padding:30px;
+}
